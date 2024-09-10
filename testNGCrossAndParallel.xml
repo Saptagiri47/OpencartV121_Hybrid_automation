@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5">
+<!-- thread-count="5" = 5 multiple memory locations will be created and in each some TC's will execute and useful in parallel testing-->
+<!-- <suite name="Suite" thread-count="5" parallel="tests"> -->
+<!-- cross browser testing we use multiple test tags -->
+<!-- for parallel testing we just add parallel="tests" at suite level-->
+  
+  <listeners>
+  	<listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  
+  <test name="edgetest">
+  	<parameter name="OS" value="Windows"></parameter>
+  	<parameter name="browser" value="edge"></parameter>
+  	<!-- Parameters in setup() in base class -->
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="chrometest">
+  	<parameter name="OS" value="Windows"></parameter>
+  	<parameter name="browser" value="chrome"></parameter>
+  	<!-- Parameters in setup() in base class -->
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+    </classes>
+  </test>
+  
+  <test name="firefoxtest">
+  	<parameter name="OS" value="Windows"></parameter>
+  	<parameter name="browser" value="firefox"></parameter>
+  	<!-- Parameters in setup() in base class -->
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

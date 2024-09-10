@@ -1,0 +1,282 @@
+22:47:13.110 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+22:47:18.789 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+22:47:22.346 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+22:47:22.351 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+22:47:22.365 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+22:47:34.077 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+22:47:36.717 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+22:47:36.718 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+22:47:36.723 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+22:47:48.562 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+22:47:51.625 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+22:47:51.625 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+11:24:12.604 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\grouping.xml
+
+11:24:21.442 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:24:21.580 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+11:24:22.234 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+11:24:22.239 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+11:24:23.917 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+11:24:23.965 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+11:24:29.351 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+11:24:31.533 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+11:33:16.694 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\grouping.xml
+
+11:35:01.238 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\grouping.xml
+
+11:35:07.140 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:35:07.325 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+11:35:07.976 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+11:35:07.981 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+11:35:10.418 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+11:35:10.459 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+11:35:16.172 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+11:35:18.151 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+11:35:58.594 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+11:36:16.575 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\grouping.xml
+
+11:37:12.900 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+11:37:18.989 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+11:37:21.467 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+11:37:21.469 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+11:37:21.481 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+11:37:33.881 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+11:37:37.679 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+11:37:37.679 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+11:37:37.684 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+11:37:50.083 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+11:37:53.568 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+11:37:53.569 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+17:16:08.304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+17:16:16.050 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+17:16:18.226 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+17:16:18.234 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+17:16:18.332 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+17:16:29.776 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+17:16:34.650 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+17:16:34.650 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+17:16:34.698 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+17:16:46.965 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+17:16:51.732 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+17:16:51.732 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+17:23:55.471 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\testNGCrossAndParallel.xml
+
+17:24:01.080 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:24:01.246 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+17:24:01.940 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+17:24:01.946 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+17:24:03.675 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+17:24:03.735 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+17:24:10.487 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:24:10.640 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+17:24:11.295 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+17:24:11.295 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+17:24:12.758 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+17:24:12.805 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+17:24:50.053 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:24:50.337 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+17:24:50.948 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+17:24:50.948 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+17:24:52.176 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+17:24:52.206 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+17:26:02.900 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\grouping.xml
+
+17:26:08.072 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:26:08.225 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+17:26:08.853 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+17:26:08.864 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+17:26:11.002 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+17:26:11.036 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+17:26:16.316 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+17:26:17.933 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+17:38:27.373 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+17:38:36.332 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+17:38:38.890 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+17:38:38.892 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+17:38:38.962 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+17:38:50.489 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+17:38:54.123 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+17:38:54.123 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+17:38:54.164 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+17:39:07.490 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+17:39:11.277 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+17:39:11.277 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+17:40:47.010 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\grouping.xml
+
+17:40:51.765 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:40:51.979 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+17:40:52.610 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+17:40:52.613 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+17:40:54.061 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+17:40:54.104 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+17:40:59.845 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+17:41:01.462 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+17:42:16.244 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\grouping.xml
+
+17:42:21.694 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:42:21.860 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+17:42:22.653 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+17:42:22.656 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+17:42:24.070 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+17:42:24.118 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+17:42:29.904 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+21:07:54.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\testNGCrossAndParallel.xml
+
+21:08:01.060 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+21:08:01.247 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+21:08:02.167 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+21:08:02.170 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+21:08:04.411 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+21:08:04.480 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+21:08:13.504 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+21:08:13.653 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+21:08:14.404 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+21:08:14.408 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+21:08:16.462 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+21:08:16.493 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+21:08:25.072 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+21:08:25.371 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+21:08:25.963 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+21:08:25.963 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+21:08:27.300 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+21:08:27.356 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+21:14:34.633 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\testNGCrossAndParallel.xml
+
+21:14:44.027 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+21:14:44.164 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+21:14:46.060 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+21:14:46.064 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+21:14:47.633 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+21:14:47.688 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+21:15:00.006 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+21:15:00.143 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+21:15:01.456 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+21:15:01.459 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+21:15:03.277 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+21:15:03.421 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+21:15:14.306 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+21:15:14.584 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+21:15:15.326 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+21:15:15.329 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+21:15:17.027 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+21:15:17.057 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+21:16:16.589 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+21:16:25.334 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+21:16:29.726 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+21:16:29.729 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+21:16:29.747 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+21:16:41.365 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+21:16:45.084 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+21:16:45.085 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+21:16:45.091 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+21:16:57.081 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+21:17:02.712 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+21:17:02.712 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+21:17:26.404 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\grouping.xml
+
+21:17:35.023 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+21:17:35.183 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+21:17:36.363 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+21:17:36.367 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+21:17:37.990 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+21:17:38.040 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+21:17:48.056 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+21:17:49.761 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+21:19:18.322 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+21:19:48.318 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\grouping.xml
+
+23:57:07.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+23:57:16.746 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+23:57:20.550 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+23:57:20.554 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+23:57:20.664 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+23:57:32.403 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+23:57:36.224 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+23:57:36.225 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+23:57:36.242 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+23:57:47.959 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+23:57:53.808 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+23:57:53.808 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+23:58:13.363 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+23:58:19.684 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+23:58:23.149 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+23:58:23.168 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+23:58:23.235 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+23:58:34.688 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+23:58:39.816 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+23:58:39.816 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+23:58:39.847 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+23:58:52.102 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+23:58:55.081 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+23:58:55.081 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+00:00:27.300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+00:00:46.424 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sapth\git\opencark\OpencarkV121_Hybrid_automation\master.xml
+
+10:21:19.505 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+10:21:21.851 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+10:21:21.858 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+10:21:21.884 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+10:21:33.197 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+10:21:36.348 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+10:21:36.348 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+10:21:36.353 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+10:21:48.104 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Starting TC_003_LoginDDT ***
+10:21:53.376 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - Login successful with valid data.
+10:21:53.377 [main] INFO  testCases.TC003_LoginDataDrivenTestCase_DDT - *** Finished TC_003_LoginDDT ***
+10:24:35.232 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+10:24:35.355 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+10:24:35.950 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+10:24:35.961 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+10:24:37.800 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+10:24:37.846 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+10:24:43.231 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+10:24:44.718 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+13:37:59.206 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+13:37:59.407 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+13:38:00.124 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+13:38:00.130 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+13:38:02.043 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+13:38:02.098 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+13:38:08.165 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+13:38:10.016 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+14:43:50.230 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+14:43:50.355 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+14:43:50.980 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register link ***
+14:43:50.984 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+14:43:52.604 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+14:43:52.654 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+14:43:57.873 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+14:43:59.660 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***

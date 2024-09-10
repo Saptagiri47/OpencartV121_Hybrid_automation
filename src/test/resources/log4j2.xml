@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <Configuration status="INFO">
+
+    <properties>
+        <property name="basePath">./logs</property>  ./ represents current folder. basePath is variable
+    </properties>
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/> 
+        </Console>
+        <RollingFile name="File" filename="${basePath}/automation.log" filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="50MB"/>
+            </Policies>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>  
+        We can understand info logs but not debug logs
+        <Root level="info">
+            Here you can use multiple log levels: All < Trace < Debug < Info < Warn < Error < Fatal < Off
+            Uncomment the following line if you want to log to both Console and File
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+
+</Configuration> -->
+
+<Configuration status="INFO">
+
+    <Properties>
+        <Property name="basePath">./logs</Property>  <!-- ./ represents the current folder. basePath is a variable -->
+    </Properties>
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/> 
+        </Console>
+        <RollingFile name="File" fileName="${basePath}/automation.log" filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="50MB"/>  <!-- Updated size format -->
+            </Policies>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <!-- You can use multiple log levels: All < Trace < Debug < Info < Warn < Error < Fatal < Off -->
+        <Root level="info">  <!-- Logs at INFO level and above -->
+            <!-- Uncomment the following line if you want to log to both Console and File -->
+            <!-- <AppenderRef ref="Console"/> -->
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+
+</Configuration>
+
